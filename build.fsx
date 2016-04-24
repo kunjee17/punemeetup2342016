@@ -140,7 +140,7 @@ Target "KeepRunning" (fun _ ->
 )
 
 Target "ReleaseSlides" (fun _ ->
-    if gitOwner = "myGitUser" || gitProjectName = "MyProject" then
+    if gitOwner = "kunjee17" || gitProjectName = "punemeetup2342016" then
         failwith "You need to specify the gitOwner and gitProjectName in build.fsx"
     let tempDocsDir = __SOURCE_DIRECTORY__ </> "temp/gh-pages"
     CleanDir tempDocsDir
