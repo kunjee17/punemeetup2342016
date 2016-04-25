@@ -472,6 +472,13 @@ I like to Thank
 
 ***
 
-### Suggestions and Questions
+
 - QnA?
 - Suggestions?
+
+---
+
+#### You can always Contact Me
+
+- Twitter - [@kunjee](https://twitter.com/kunjee)
+- WebSite - [kunjan.in](http://kunjan.in)
